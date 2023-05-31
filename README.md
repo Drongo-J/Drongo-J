@@ -73,3 +73,5 @@ class Program
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=drongo-j&show_icons=true&locale=en" alt="drongo-j" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drongo-j&" alt="drongo-j" /></p>
+
+[![Aykhan Ahmadzada's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Drongo-J)]
