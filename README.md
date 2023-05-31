@@ -5,8 +5,8 @@ class SoftwareEngineer
 {
     public string Fullname { get; set; } = "Aykhan Ahmadzada";
     public string Role { get; set; } = "Software Engineer";
-    public var ProgrammingLanguages { get; set; } = { "C#", "C++", "Python", "SQL", "JavaScript" };
-    public string[] SpokenLanguages { get; set; } = { "Azerbaijani", "English" };
+    public var ProgrammingLanguages { get; set; } = {"C#", "C++", "Python", "SQL", "JavaScript"};
+    public string[] SpokenLanguages { get; set; } = {"Azerbaijani", "English"};
 
     public void SayHi()
     {
