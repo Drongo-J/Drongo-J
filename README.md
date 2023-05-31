@@ -45,11 +45,11 @@ class Program
 <a href="https://aykhan.net" target="_blank">
   <img align="center" src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" margin="20" height="30" width="35" alt="Aykhan-Ahmadzada" />
 </a>
-<a href="https://youtube.com/@myprojects440" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aykhan-Ahmadzada"            height="30" width="40" />
-</a>
 <a href="https://www.leetcode.com/drongo-x" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drongo-x"                  height="30" width="40" />
+</a>
+<a href="https://youtube.com/@myprojects440" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aykhan-Ahmadzada"            height="30" width="40" />
 </a>
 <a href="https://linkedin.com/in/aykhan-ahmadzada-02998724b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aykhan-                Ahmadzada" height="30" width="40" />
