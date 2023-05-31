@@ -70,9 +70,10 @@ class Program
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drongo-j&theme=dracula" alt="drongo-j" /></p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=drongo-j&show_icons=true&locale=en&theme=dracula" alt="drongo-j" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drongo-j&show_icons=true&locale=en&layout=compact&theme=dracula" alt="drongo-j" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=drongo-j&show_icons=true&locale=en&theme=dracula" alt="drongo-j" /></p>
 
 
 [![Aykhan Ahmadzada's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Drongo-J)]
