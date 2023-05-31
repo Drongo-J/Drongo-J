@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aykhan Ahmadzada</h1>
 <h3 align="center">An Interactive Full-Stack Developer from Azerbaijan</h3>
 
+<iframe src="https://giphy.com/embed/CcwLAV11cALh3OuEJ5" width="480" height="144" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/coding-programming-ninjas-CcwLAV11cALh3OuEJ5">via GIPHY</a></p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=0e75b6&style=flat" alt="drongo-j" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drongo-j" alt="drongo-j" /></a> </p>
