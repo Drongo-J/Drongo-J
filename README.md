@@ -75,4 +75,4 @@ class Program
 
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drongo-j&show_icons=true&locale=en&theme=tokyonight)](https://github.com/drongo-j)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drongo-j&show_icons=true&locale=en&theme=tokyonight&rank_icon=github)](https://github.com/drongo-j)
