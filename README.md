@@ -43,7 +43,7 @@ class Program
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://aykhan.net" target="_blank">
-  <img align="center" src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" height="35" width="40" alt="Aykhan-Ahmadzada" />
+  <img align="center" src="https://res.cloudinary.com/dbriqxpaa/image/upload/v1680096853/Logo/logo-xl-ico_qzbf7d.ico" height="35" width="35" alt="Aykhan-Ahmadzada" />
 </a>
 <a href="https://linkedin.com/in/aykhan-ahmadzada-02998724b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aykhan-                Ahmadzada" height="30" width="40" />
