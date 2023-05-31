@@ -3,9 +3,10 @@ using System;
 
 class SoftwareEngineer
 {
-    public string Name { get; set; } = "Zhenye Na";
+    public string Fullname { get; set; } = "Aykhan Ahmadzada";
     public string Role { get; set; } = "Software Engineer";
-    public string[] LanguageSpoken { get; set; } = { "zh_CN", "en_US" };
+    public string[] ProgrammingLanguages { get; set; } = { "C#", "C++", "Python", "SQL", "JavaScript" };
+    public string[] SpokenLanguages { get; set; } = { "Azerbaijani", "English" };
 
     public void SayHi()
     {
