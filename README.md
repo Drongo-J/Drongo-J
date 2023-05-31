@@ -24,7 +24,7 @@ class Program
 }
 ```
 
-<img align="right" alt="Coding" width="400" src="[https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk5MmE5MmQ1YTk3ZDFhZjExNDA0MTZkZWIwOGMwNGYzNTc4MWNhYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif)">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzk5MmE5MmQ1YTk3ZDFhZjExNDA0MTZkZWIwOGMwNGYzNTc4MWNhYiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=0e75b6&style=flat" alt="drongo-j" /> </p>
 
