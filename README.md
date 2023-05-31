@@ -1,6 +1,38 @@
-![MasterHead](https://camo.githubusercontent.com/12e5f2b182da4b52850b29bb09e8ba3e92b0ac2c0bd121de7dfcbb291fbbd525/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37372f63612f61332f37376361613332383834643733356434333961646534356261333766656166322e676966)
-<h1 align="center">Hi 👋, I'm Aykhan Ahmadzada</h1>
-<h3 align="center">An Interactive Full-Stack Developer from Azerbaijan</h3>
+<pre><code class="language-csharp">
+using System;
+
+namespace YourNamespace
+{
+    public class SoftwareEngineer
+    {
+        public string Name { get; set; }
+        public string Role { get; set; }
+        public string[] LanguageSpoken { get; set; }
+
+        public SoftwareEngineer()
+        {
+            Name = "Zhenye Na";
+            Role = "Software Engineer";
+            LanguageSpoken = new string[] { "zh_CN", "en_US" };
+        }
+
+        public void SayHi()
+        {
+            Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
+        }
+    }
+
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            SoftwareEngineer me = new SoftwareEngineer();
+            me.SayHi();
+        }
+    }
+}
+</code></pre>
+
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=0e75b6&style=flat" alt="drongo-j" /> </p>
