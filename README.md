@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **nothing**
 
-- 👨‍💻 Some of my projects are available at [https://aykhan.net](aykhan.net)
+- 👨‍💻 Some of my projects are available at [aykhan.net](https://aykhan.net)
 
 - 💬 Ask me about **C#, WPF, Web Programming and so on**
 
