@@ -42,7 +42,7 @@ class Program
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://aykhan.net" target="blank"><img align="center" src="https://media.aykhan.net/assets/logos/aykhannet.svg" alt="Aykhan-Ahmadzada" height="30" width="40" /></a>
+<a href="https://aykhan.net" target="blank"><img align="center" src="https://media.aykhan.net/assets/logos/aykhannet-transparent-bg.svg" alt="Aykhan-Ahmadzada" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aykhan-ahmadzada-02998724b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aykhan-Ahmadzada" height="30" width="40" /></a>
 <a href="https://youtube.com/@myprojects440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aykhan-Ahmadzada" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/drongo-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="drongo-x" height="30" width="40" /></a>
