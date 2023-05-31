@@ -28,11 +28,7 @@ class Program
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=0e75b6&style=flat" alt="drongo-j" /> </p>
 
-- 🔭 I’m currently working on **nothing**
-
 - 🌱 I’m currently learning **ASP.NET**
-
-- 👯 I’m looking to collaborate on **nothing**
 
 - 🤝 I’m looking for help with **nothing**
 
