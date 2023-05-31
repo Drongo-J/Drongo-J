@@ -1,34 +1,24 @@
 <pre><code class="language-csharp">
 using System;
 
-namespace YourNamespace
+class SoftwareEngineer
 {
-    public class SoftwareEngineer
+    public string Name { get; set; } = "Zhenye Na";
+    public string Role { get; set; } = "Software Engineer";
+    public string[] LanguageSpoken { get; set; } = { "zh_CN", "en_US" };
+
+    public void SayHi()
     {
-        public string Name { get; set; }
-        public string Role { get; set; }
-        public string[] LanguageSpoken { get; set; }
-
-        public SoftwareEngineer()
-        {
-            Name = "Zhenye Na";
-            Role = "Software Engineer";
-            LanguageSpoken = new string[] { "zh_CN", "en_US" };
-        }
-
-        public void SayHi()
-        {
-            Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
-        }
+        Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
     }
+}
 
-    class Program
+class Program
+{
+    static void Main(string[] args)
     {
-        static void Main(string[] args)
-        {
-            SoftwareEngineer me = new SoftwareEngineer();
-            me.SayHi();
-        }
+        SoftwareEngineer me = new SoftwareEngineer();
+        me.SayHi();
     }
 }
 </code></pre>
