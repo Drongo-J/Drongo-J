@@ -52,7 +52,7 @@ class Program
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Aykhan-Ahmadzada"            height="30" width="40" />
 </a>
 <a href="https://drive.google.com/drive/u/0/folders/1eJn4SfTfanRXA1tvElBTYA430reovZyJ" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/google-drive.svg" alt="Google Drive" height="30" width="40" />
+    <img align="center" src="https://media.aykhan.net/assets/icons/google-drive.svg" alt="Google Drive" height="30" width="40" />
 </a>
 <a href="https://lichess.org/@/Ahmadzada-Aykhan " target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/lichess.svg" alt="Lichess" height="30" width="40" />
