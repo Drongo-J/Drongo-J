@@ -25,12 +25,13 @@ class Program
 ```
 
 <img align="right" alt="Coding" width="400" src="https://flow.org/img/featurette-faster.gif">
-
+<p align="left">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=3EB810&style=flat" alt="drongo-j" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=3EB810&style=flat" alt="drongo-j" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=3EB810&style=flat" alt="drongo-j" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=3EB810&style=flat" alt="drongo-j" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=3EB810&style=flat" alt="drongo-j" /> </p>
+</p>
 
 - 🌱 I’m currently learning **ASP.NET**
 
