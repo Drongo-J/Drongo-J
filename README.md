@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aykhan Ahmadzada</h1>
 <h3 align="center">An Interactive Full-Stack Developer from Azerbaijan</h3>
 
-<img src="https://media4.giphy.com/media/CcwLAV11cALh3OuEJ5/giphy.gif?cid=ecf05e472dfsg32je3oxwox1szfj9p5rfp3m6k7smfgx3f2d&amp;ep=v1_gifs_related&amp;rid=giphy.gif&amp;ct=g" alt="CODING NINJAS working coding programming keep going GIF" style="width: 800px; height: 200px; left: 0px; top: 0px; opacity: 0;">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=drongo-j&label=Profile%20views&color=0e75b6&style=flat" alt="drongo-j" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=drongo-j" alt="drongo-j" /></a> </p>
 
 - 🔭 I’m currently working on **nothing**
 
