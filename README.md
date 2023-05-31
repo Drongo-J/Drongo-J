@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/themes/prism.min.css">
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/prism/1.23.0/prism.min.js"></script>
-</head>
-<body>
-    <pre><code class="language-csharp">
+```csharp
 using System;
 
 class SoftwareEngineer
@@ -28,11 +21,6 @@ class Program
         me.SayHi();
     }
 }
-    </code></pre>
-    <script>Prism.highlightAll();</script>
-</body>
-</html>
-
 
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 
