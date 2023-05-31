@@ -70,7 +70,7 @@ class Program
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=drongo-j&show_icons=true&locale=en&layout=compact" alt="drongo-j" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=drongo-j&show_icons=true&locale=en&theme=merko" alt="drongo-j" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=drongo-j&show_icons=true&locale=en&theme=radical" alt="drongo-j" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=drongo-j&" alt="drongo-j" /></p>
 
