@@ -37,8 +37,6 @@ class Program
 
 - ✍️ My **Programming Lesson Notes** are at [google.drive](https://drive.google.com/drive/folders/1eJn4SfTfanRXA1tvElBTYA430reovZyJ?usp=sharing)
 
-- 💬 Ask me about **C#, WPF, Web Programming and so on**
-
 - 📫 How to reach me **ayxanx17@gmail.com**
 
 - 📄 Know about my experiences [aykhan.net/cv](aykhan.net/cv)
