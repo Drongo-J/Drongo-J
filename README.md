@@ -31,8 +31,6 @@ class Program
 </p>
 
 
-- 🌱 I’m currently learning **ASP.NET**
-
 - 👨‍💻 Some of my projects are available at [aykhan.net](https://aykhan.net)
 
 - ✍️ My **Programming Lesson Notes** are at [google.drive](https://drive.google.com/drive/folders/1eJn4SfTfanRXA1tvElBTYA430reovZyJ?usp=sharing)
