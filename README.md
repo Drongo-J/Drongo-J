@@ -33,8 +33,6 @@ class Program
 
 - 👨‍💻 Some of my projects are available at [aykhan.net](https://aykhan.net)
 
-- ✍️ My **Programming Lesson Notes** are at [google.drive](https://drive.google.com/drive/folders/1eJn4SfTfanRXA1tvElBTYA430reovZyJ?usp=sharing)
-
 - 📫 How to reach me **ayxanx17@gmail.com**
 
 - 📄 Know about my experiences [aykhan.net/cv](aykhan.net/cv)
