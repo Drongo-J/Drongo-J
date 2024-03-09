@@ -1,27 +1,3 @@
-```csharp
-using System;
-
-class SoftwareEngineer
-{
-    public string Fullname { get; set; } = "Aykhan Ahmadzada";
-    public string Role { get; set; } = "Software Engineer";
-    public var ProgrammingLanguages { get; set; } = {"C#", "C++", "Python", "SQL", "JavaScript", "Java"};
-
-    public void SayHi()
-    {
-        Console.WriteLine("Thanks for dropping by, hope you find some of my work interesting.");
-    }
-}
-
-class Program
-{
-    static void Main(string[] args)
-    {
-        SoftwareEngineer me = new SoftwareEngineer();
-        me.SayHi();
-    }
-}
-```
 <br/>
 <img align="right" alt="Coding" width="400" src="https://flow.org/img/featurette-faster.gif">
 
